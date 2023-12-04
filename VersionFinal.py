@@ -3,7 +3,7 @@
 
 --- PROYECTO SISTEMA DE RECOMENDACIÓN ---
 
-- NOMS: Albert Pumar
+- NOMBRE: Albert Pumar
 
 """
 
